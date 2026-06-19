@@ -14,3 +14,5 @@ htmlcov/
 # IDE
 .idea/
 .vscode/
+
+ARCHITECTURE.md
